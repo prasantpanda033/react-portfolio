@@ -65,7 +65,7 @@ const dataportfolio = [{
         link: "#",
     },
     {
-        img: "https://www.freeimages.com/photo/sunflower-in-bulgaria-1641774",
+        img: "https://picsum.photos/400/700/?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
